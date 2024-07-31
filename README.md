@@ -63,6 +63,8 @@ create web as a public subnet "10.1.0.0/20"
 
 create db as a private subnet "10.1.16.0/20"
 
+![WhatsApp Image 2024-08-01 at 01 24 41](https://github.com/user-attachments/assets/a38e0770-148d-46e2-a1f2-b048146152fa)
+
 create internetgateway and attached to vpc-2tier
 
 launch ec2 instance in both web and db subnets
