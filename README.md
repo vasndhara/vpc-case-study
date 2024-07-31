@@ -36,8 +36,11 @@ create route attach route to public web subnet
 
 3.launch instances in all subnets private and public app1,app2,dbcache,dband web
 
+![WhatsApp Image 2024-08-01 at 01 06 49](https://github.com/user-attachments/assets/72dfadb9-f671-4b33-a9f1-234cfec35f62)
+
 
 4.Allow dbcache instance and app1 subnet to send internet requests
+
 
 5.Manage security groups and NACLs
 
