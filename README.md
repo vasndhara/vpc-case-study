@@ -68,6 +68,8 @@ create natgatway to websubnet and send internet request
 
 3. Create peering connection between production network and development network
 
+ ![WhatsApp Image 2024-08-01 at 01 11 31](https://github.com/user-attachments/assets/db7f2b45-ed0a-4d99-8900-5b460d907c87)
+
 
 
 
