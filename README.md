@@ -73,6 +73,7 @@ create db as a private subnet "10.1.16.0/20"
 
 # create route table attach  to public web subnet
 
+![WhatsApp Image 2024-08-01 at 01 43 17](https://github.com/user-attachments/assets/7d3adaf6-37bd-47f0-a8c1-932be4a8c4d1)
 
 
 # launch ec2 instance in both web and db subnets
@@ -82,6 +83,7 @@ create db as a private subnet "10.1.16.0/20"
 
 
 # create NAT gateways  to websubnet and send internet request
+ 
 
 # 3. Create peering connection between production network and development network
 
