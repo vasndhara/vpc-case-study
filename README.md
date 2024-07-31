@@ -67,7 +67,12 @@ create db as a private subnet "10.1.16.0/20"
 
 create internetgateway and attached to vpc-2tier
 
+
+![WhatsApp Image 2024-08-01 at 01 31 36](https://github.com/user-attachments/assets/bce0f68b-a111-44e5-8a6a-57eddf47a0be)
+
+
 launch ec2 instance in both web and db subnets
+
 
 create natgatway to websubnet and send internet request
 
