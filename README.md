@@ -36,6 +36,7 @@ create route attach route to public web subnet
 
 3.launch instances in all subnets private and public app1,app2,dbcache,dband web
 
+
 4.Allow dbcache instance and app1 subnet to send internet requests
 
 5.Manage security groups and NACLs
