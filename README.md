@@ -52,10 +52,10 @@ create nat gateways and add to internet requests app1 and dbcache
 
 ![WhatsApp Image 2024-08-01 at 00 51 46](https://github.com/user-attachments/assets/8f30f24f-cbc7-429e-b643-8f5201a49864)
 
-#Development Network:
+# Development Network:
 1.Design and build 2 tier architecture with two subnets named web and db
 
- create new vpc
+# create new vpc
  *vpc-2tier "10.1.0.0/16
 
  create subnets one should be public and another private
@@ -66,21 +66,24 @@ create db as a private subnet "10.1.16.0/20"
 
 ![WhatsApp Image 2024-08-01 at 01 24 41](https://github.com/user-attachments/assets/a38e0770-148d-46e2-a1f2-b048146152fa)
 
-create internetgateway and attached to vpc-2tier
+# create internetgateway and attached to vpc-2tier
 
 
 ![WhatsApp Image 2024-08-01 at 01 31 36](https://github.com/user-attachments/assets/bce0f68b-a111-44e5-8a6a-57eddf47a0be)
 
+# create route table attach  to public web subnet
 
-launch ec2 instance in both web and db subnets
+
+
+# launch ec2 instance in both web and db subnets
 
 
 ![WhatsApp Image 2024-08-01 at 01 33 54](https://github.com/user-attachments/assets/e40395c9-b9fc-496c-8c19-89c8cf1a0aef)
 
 
-create natgatway to websubnet and send internet request
+# create NAT gateways  to websubnet and send internet request
 
-3. Create peering connection between production network and development network
+# 3. Create peering connection between production network and development network
 
  ![WhatsApp Image 2024-08-01 at 01 11 31](https://github.com/user-attachments/assets/db7f2b45-ed0a-4d99-8900-5b460d907c87)
 
