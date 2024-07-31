@@ -40,6 +40,7 @@ create route attach route to public web subnet
 
 
 4.Allow dbcache instance and app1 subnet to send internet requests
+
 create nat gateways and add to internet requests app1 and dbcache
 
 ![WhatsApp Image 2024-08-01 at 01 16 07](https://github.com/user-attachments/assets/ec56a706-2660-407a-b784-bc8990465723)
@@ -72,6 +73,9 @@ create internetgateway and attached to vpc-2tier
 
 
 launch ec2 instance in both web and db subnets
+
+
+![WhatsApp Image 2024-08-01 at 01 33 54](https://github.com/user-attachments/assets/e40395c9-b9fc-496c-8c19-89c8cf1a0aef)
 
 
 create natgatway to websubnet and send internet request
