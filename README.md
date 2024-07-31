@@ -9,6 +9,7 @@ vpc-4tier-arch "10.0.0.0/16"
 
 2.create 5 subnets out of  which 4 should be private and 1 should be public
 
+
 create four private  subnets :
 
 *app1 "10.0.128.0/20"
@@ -22,6 +23,8 @@ create four private  subnets :
 create one public subnets :
 
 *web "10.0.0.0/20"
+
+![WhatsApp Image 2024-08-01 at 00 54 04](https://github.com/user-attachments/assets/6d20a0be-6350-45f4-9daf-83cb2e85109f)
 
 create internetgateways and attach to vpc-4tier-arch
 
