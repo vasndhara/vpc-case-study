@@ -40,6 +40,9 @@ create route attach route to public web subnet
 
 
 4.Allow dbcache instance and app1 subnet to send internet requests
+create nat gateways and add to internet requests app1 and dbcache
+
+![WhatsApp Image 2024-08-01 at 01 16 07](https://github.com/user-attachments/assets/ec56a706-2660-407a-b784-bc8990465723)
 
 
 5.Manage security groups and NACLs
