@@ -35,6 +35,8 @@ create route attach route to public web subnet
 
 ![WhatsApp Image 2024-08-01 at 00 47 55](https://github.com/user-attachments/assets/61243df8-ea69-498a-a415-0c787cbadf7b)
 
+![WhatsApp Image 2024-08-01 at 00 51 46](https://github.com/user-attachments/assets/8f30f24f-cbc7-429e-b643-8f5201a49864)
+
 #Development Network:
 1.Design and build 2 tier architecture with two subnets named web and db
 
