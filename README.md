@@ -30,6 +30,8 @@ create internetgateways and attach to vpc-4tier-arch
 
 create route attach route to public web subnet
 
+![WhatsApp Image 2024-08-01 at 00 55 46](https://github.com/user-attachments/assets/a45de047-ba64-463a-b3c1-0d4131d22f8e)
+
 3.launch instances in all subnets private and public app1,app2,dbcache,dband web
 
 4.Allow dbcache instance and app1 subnet to send internet requests
