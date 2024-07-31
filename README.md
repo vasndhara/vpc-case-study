@@ -28,6 +28,8 @@ create one public subnets :
 
 create internetgateways and attach to vpc-4tier-arch
 
+![WhatsApp Image 2024-08-01 at 01 01 48](https://github.com/user-attachments/assets/021a797e-c286-4aab-b703-c18212a5904b)
+
 create route attach route to public web subnet
 
 ![WhatsApp Image 2024-08-01 at 00 55 46](https://github.com/user-attachments/assets/a45de047-ba64-463a-b3c1-0d4131d22f8e)
